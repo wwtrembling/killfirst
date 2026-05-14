@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.pope.tech)",
+      "WebFetch(domain:www.deque.com)",
+      "WebFetch(domain:equalizedigital.com)",
+      "WebFetch(domain:a11yproof.com)",
+      "WebFetch(domain:getaccesslens.com)",
+      "WebFetch(domain:www.accessibilitychecker.org)",
+      "WebFetch(domain:www.accessibility.build)",
+      "WebFetch(domain:www.audioeye.com)",
+      "WebFetch(domain:aaardvarkaccessibility.com)",
+      "WebFetch(domain:trends.google.com)",
+      "WebFetch(domain:scanluma.com)",
+      "WebFetch(domain:www.upwork.com)"
+    ]
+  }
+}
